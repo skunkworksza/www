@@ -141,7 +141,7 @@
     "streamx": "^2.18.0",
     "string_decoder": "^1.3.0",
     "string-width": "^4.2.3",
-    "strip-ansi": "^6.0.1",
+    "strip-ansi": "^7.1.0",
     "supports-color": "^7.2.0",
     "supports-preserve-symlinks-flag": "^1.0.0",
     "sver": "^1.8.4",
