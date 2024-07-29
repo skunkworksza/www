@@ -68,7 +68,7 @@
     "glob-parent": "^5.1.2",
     "glob-stream": "^8.0.2",
     "glob-watcher": "^6.0.0",
-    "global-modules": "^1.0.0",
+    "global-modules": "^2.0.0",
     "global-prefix": "^1.0.2",
     "glogg": "^2.2.0",
     "graceful-fs": "^4.2.11",
