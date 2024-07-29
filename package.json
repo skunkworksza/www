@@ -45,7 +45,7 @@
     "core-util-is": "^1.0.3",
     "detect-file": "^1.0.0",
     "each-props": "^3.0.0",
-    "emoji-regex": "^8.0.0",
+    "emoji-regex": "^10.3.0",
     "end-of-stream": "^1.4.4",
     "escalade": "^3.1.2",
     "expand-tilde": "^2.0.2",
