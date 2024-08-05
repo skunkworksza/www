@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "@carbon/react": "^1.59.0",
+    "@carbon/react": "^1.63.1",
     "ansi-colors": "^1.1.0",
     "ansi-regex": "^5.0.1",
     "ansi-styles": "^4.3.0",
